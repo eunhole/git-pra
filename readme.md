@@ -110,7 +110,7 @@ relative | 요소 자신 | X
 absolute | 위치 상 부모 요소 | X
 fixed | 뷰포트 | X
 
-# 원시 HTML(Raq HTML)
+# 원시 HTML(Raw HTML)
 동해물과 <u>백두산이</u> 마르고 닳도록<br/>
 동해물과 백두산이 <span style="text-decoration: underline;">마르고</span> 닳도록
 
